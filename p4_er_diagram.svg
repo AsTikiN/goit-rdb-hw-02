@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620">
+  <rect width="1100" height="620" fill="#dbe4ec"/>
+  <text x="40" y="42" font-family="Arial,sans-serif" font-size="22" fill="#1c2430">goit-rdb-hw-02 ER diagram (3NF)</text>
+  <text x="40" y="80" font-family="Arial,sans-serif" font-size="16" fill="#333">customers 1:N orders 1:N order_items N:1 products</text>
+  <text x="40" y="110" font-family="Arial,sans-serif" font-size="14" fill="#333">See p4_er_diagram.png for full EER layout.</text>
+</svg>
